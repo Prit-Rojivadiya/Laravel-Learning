@@ -1,0 +1,37 @@
+<?php
+
+declare(strict_types=1);
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class ModifyTenantsTable extends Migration
+{
+    /**
+     * Modify tenants table to enable tenancy
+     * https://tenancyforlaravel.com/docs/v3/quickstart
+     *
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up(): void
+    {
+        Schema::table('tenants', function (Blueprint $table) {
+            $table->json('data')->nullable();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down(): void
+    {
+        Schema::table('tenants', function (Blueprint $table) {
+            $table->dropColumn('data');
+        });
+    }
+}

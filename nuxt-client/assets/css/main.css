@@ -1,0 +1,65 @@
+
+.csvtable {
+  width: 100%;
+}
+
+.csvtable tr th {
+  text-align: left;
+}
+
+.csvtable  td,  th {
+  padding: 5px;
+  vertical-align: center;
+  text-aligh: left;
+  border-top: 1px solid #dee2e6;
+}
+
+.csvtable select {
+  padding: 0.3rem 0.75rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.k-grid td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.k-menu-link-text .k-checkbox {
+  margin-right:5px;
+}
+
+.compact-grid .k-cell-inner > .k-link {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.compact-grid .k-grid tr {
+  line-height: 1;
+}
+
+.compact-grid .k-grid td {
+  padding: 5px 24px;
+}
+
+.compact-grid .k-input-md .k-input-inner, .compact-grid .k-picker-md .k-input-inner {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.compact-grid .k-filter-row th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.tz-grid-hlink {
+  color: inherit !important;
+}
+
+
+
+
+
+

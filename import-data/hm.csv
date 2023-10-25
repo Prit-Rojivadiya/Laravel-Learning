@@ -1,0 +1,55 @@
+Hill & Marks,,,,,,,,,,,,,,,
+Client,Branch,Fleet,Vehicle Unit Number,Year,Make,Model,Vin#,License Plate #,License State,Purchase Price,In Service Date,Vehicle Type,Engine Manufacturer,Engine Serial #,Tire Size
+Hill & Marks,Penske,P Straight Trucks,100,2016,Kenworth,T370,2NKHHM7XOGM133262,55576PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,101,2016,Kenworth,T370,2NKHHM7X2GM033263,55577PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,102,2018,Kenworth,T370,2NKHHM7X9JM176070,81806-PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,103,2018,Kenworth,T370,2NKHHM7XOJM176068,57723PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,104,2018,Kenworth,T370,2NKHHM7X2JM176069,61423PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,105,2018,Kenworth,T370,2NKHHM7X9JM176067,20822PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,106,2019,Kenworth,T370,2NKHHM7X2KM301377,74107PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,107,2019,Kenworth,T370,2NKHHM7X4KM301378,74108PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,108,2019,Kenworth,T370,2NKHHM7X6KM301379,74106PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,109,2019,Kenworth,T370,2NKHHM7X4KM301380,74109PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Straight Trucks,110,2019,Kenworth,T370,2NKHHM7X4KM301381,74110PC,,,,Straight Truck,PACCAR,,11R22.5
+Hill & Marks,Penske,P Tractors,204,2017,Freightliner,X12564ST,1FUBGADVOHLHJ3388,34955PC,,,,Tractor,Detroit,,295/75R22.5
+Hill & Marks,Penske,P Tractors,205,2017,Freightliner,X12564ST,1FUBGADVOHLHJ3389,87792PA,,,,Tractor,Detroit,,295/75R22.5
+Hill & Marks,Penske,P Tractors,206,2017,Freightliner,X12564ST,1FUBGADVOHLHJ3387,27757PC,,,,Tractor,Detroit,,295/75R22.5
+Hill & Marks,Penske,P Tractors,207,2020,International,LT625,3HSDYAPN3LN899649,81301PC,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,208,2020,International,LT625,3HSDYAPNXLN899650,81302PC,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,209,2020,International,LT625,3HSKYAPN1LN899651,82494PC,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,210,2020,International,LT625,3HSKYAPN3LN899652,82488PC,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,211,2020,International,LT625,3HSDYAPN5LN899653,82490PC,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,212,2020,International,LT625,3HSDYAPN7LN899654,3254214,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,213,2020,International,LT625,3HSDYAPN9LN899655,3254215,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Penske,P Tractors,214,2020,International,LT625,3HSDYAPN0LN899656,3254120,,,,Tractor,Cummins,,295/75R22.5
+Hill & Marks,Ryder,R Tractors,200,2017,International,LT625,3HCDGAPNXHL691673,2639798ID,,,,Tractor,,,295/75R22.5
+Hill & Marks,Ryder,R Tractors,201,2017,International,LT625,3HCDGAPNXHL691674,2639799ID,,,,Tractor,,,295/75R22.5
+Hill & Marks,Ryder,R Tractors,202,2017,International,LT625,3HCDGAPNXHL691675,2639800ID,,,,Tractor,,,295/75R22.5
+Hill & Marks,Ryder,R Tractors,203,2017,International,LT625,3HCDGAPNXHL691676,2639801ID,,,,Tractor,,,295/75R22.5
+Hill & Marks,H & M,HM Trailers,60,2009,Great Dane,Trailer,1GRAA56189B701441,1062C9,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,61,2009,Great Dane,Trailer,1GRAA561X9B701442,1063C9,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,62,2009,Great Dane,Trailer,1GRAA51669B701443,1061C9,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,63,2009,Great Dane,Trailer,1GRAA56139B701444,1984C2,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,64,2010,Great Dane,Trailer,1GRAA5612AB703951,2783C5,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,65,2012,Great Dane,Trailer,1GRAA5616BB701427,2825C5,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,66,2012,Great Dane,Trailer,1GRAA561XCB709872,1188C7,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,67,2012,Great Dane,Trailer,1GRAA5617CB709473,1985C2,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,68,2012,Great Dane,Trailer,1GRAA5619CB709474,1186C7,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,69,2013,Great Dane,Trailer,1GRAA5615DB710820,2785C8,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,70,2013,Great Dane,Trailer,1GRAA5617DB710821,2788C8,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,71,2013,Great Dane,Trailer,1GRAA5619DB710822,2787C8,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,72,2013,Great Dane,Trailer,1GRAA5619DB710823,2786C8,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,73,2016,Great Dane,Trailer,1GRAA561XGB702331,BG88347,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,300,2017,Great Dane,Trailer,1GRAA5618HB701129,2739C1,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,301,2017,Great Dane,Trailer,1GRAA5614HB701127,2741C1,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,302,2017,Great Dane,Trailer,1GRAA5616HB701128,2740C1,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,303,2020,Great Dane,Trailer,1GR1A561XMB231938,1951D6,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,304,2020,Great Dane,Trailer,1GR1A5611MB231939,1953D6,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,305,2020,Great Dane,Trailer,1GR1A5618MB231940,1954D6,,,,Trailer,,,
+Hill & Marks,H & M,HM Trailers,306,2020,Great Dane,Trailer,1GR1A561XMB231941 ,1952D6,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,401,2009,Great Dane,Dolly,1GRER18189K205250,,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,402,1999,,Dolly,1PTOY10G2X9009817,,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,403,2013,Great Dane,Dolly,1GRER1819DK227587,,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,404,2016,,Dolly,1FTYR1CG2GKA10941,,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,405,2017,Great Dane,Dolly,1GRER1618JK285477,,,,,Trailer,,,
+Hill & Marks,H & M,HM Dollies,406,2022,Great Dane,Dolly,1GR5R1615NK421215,,,,,Trailer,,,

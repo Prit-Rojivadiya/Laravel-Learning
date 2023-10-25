@@ -1,0 +1,370 @@
+NTC
+Client,Branch,Fleet,Vehicle Unit Number,Year,Make,Model,Vin#,License Plate #,License State,Purchase Price,In Service Date,Vehicle Type,Engine Manufacturer,Engine Serial #,Tire Size
+RC Willey,Reno Delivery,Reno Tractors,77106,2019,Freightliner,M2106,3AKBCXD24KDKL0146,Z066607,UT,,10/15/18,Tractor,,,295/75R22.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77210,2015,Freightliner,M2106,1FVACWDT2FHGN1568,Z078451,UT,,10/15/14,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77211,2015,Freightliner,M2106,1FVACWDT2FHGN1571,Z038422,UT,,10/15/14,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77212,2015,Freightliner,M2106,1FVACWDT3FHGN1577,Z039993,UT,,10/15/14,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77213,2020,Freightliner,M2106,3ALACWFB0LDLN4611,Z062943,UT,,10/15/18,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77214,2020,Freightliner,M2106,3ALACWFB2LDLN4612,Z062944,UT,,10/15/18,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77215,2020,Freightliner,M2106,3ALACWFB6LDLN4614,Z062942,UT,,10/15/18,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77216,2020,Freightliner,M2106,3ALACWFB4LDLN4613,Z062945,UT,,10/15/18,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77217,2021,Freightliner,M2106,3ALACWFB7MDMT2741,Z076624,UT,,12/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77218,2021,Freightliner,M2106,3ALACWFB9MDMT2742,Z076913,UT,,12/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77219,2021,Freightliner,M2106,3ALACWFB0MDMT2743,Z076911,UT,,12/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Straight Trucks,77230,2021,Freightliner,M2106,3ALACWFB2MDMT2744,Z076912,UT,,12/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Reno Delivery,Reno Light Duty Trucks,77222,2014,Dodge,3500,3C7WRTBJXEG198714,500AVZ,NV,,5/15/14,Light Duty,,,
+RC Willey,Reno Delivery,Reno Vans,77803,2011,GMC,Savana,1GTS7AFX8B1174801 ,925XYD,NV,,10/20/11,Light Duty,,,
+RC Willey,Reno Delivery,Reno Vans,77805,2019,Mercedes,Sprinter,WD4PF1CD7KP159020,,NV,,2/1/20,Light Duty,,,
+RC Willey,Reno Delivery,Reno Vans,77808,2018,FORD,Transit,1FTYE1YM7JKA13769,851G83,NV,,7/15/18,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Tractors,49104,2018,Freightliner,CA113,3AKBGBDV6JSJR6884,Z059719,UT,,8/1/22,Tractor,,,295/75R22.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Tractors,59142,2012,Kenworth,T370,2XKHAN7XXCM318509,Z017194,UT,,9/1/11,Tractor,,,295/75R22.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49213,2014,Freightliner,M2106,3ALACWDT1EDFS5674,16885M1,CA,,8/1/13,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49225,2014,Freightliner,M2106,3ALACWDT1EDFW5575,60642J2,CA,,8/1/13,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49226,2018,Freightliner,M2106,3ALACWFB3JDJR6858,56359H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49227,2018,Freightliner,M2106,3ALACWFB5JDJR6859,56265H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49228,2018,Freightliner,M2106,3ALACWFB1JDJR6860,56360H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49229,2018,Freightliner,M2106,3ALACWFB3JDJR6861,56264H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49230,2018,Freightliner,M2106,3ALACWFB5JDJR6862,56403H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49231,2018,Freightliner,M2106,3ALACWFB7JDJR6863,56416H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49232,2018,Freightliner,M2106,3ALACWFB9JDJR6864,56361H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49233,2018,Freightliner,M2106,3ALACWFB0JDJR6865,56404H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49234,2018,Freightliner,M2106,3ALACWFB2JDJR6866,56418H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49235,2018,Freightliner,M2106,3ALACWFB4JDJR6867,56417H2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49236,2018,Freightliner,M2106,3ALACWFB6JDJR6868,10143N2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49237,2018,Freightliner,M2106,3ALACWFB8JDJR6869,24386E2,CA,,11/1/17,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49238,2021,International,MV607,3HAEWMML9ML308644,36825B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49239,2021,International,MV607,3HAEWMML0ML308645,36802B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49240,2021,International,MV607,3HAEWMML2ML308646,36812B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49241,2021,International,MV607,3HAEWMML4ML308647,36822B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49242,2021,International,MV607,3HAEWMML6ML308648,36805B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49244,2021,International,MV607,3HAEWMML4ML308650,36813B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49245,2021,International,MV607,3HAEWMML6ML308651,36814B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC Straight Trucks,49246,2021,International,MV607,3HAEWMML8ML308652,36811B3,CA,,11/1/20,Straight Truck,,,245/70R19.5
+RC Willey,Rocklin Distribution Center - RDC,RDC IT Cars,49808,2017,Toyota,Yaris,VNKKTUD32HA077431,8CVV902,CA,,12/15/17,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Vans,49804,2015,Ford,Transit,1FTNE1YM0FKA99467,39544W1,CA,,8/1/15,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Vans,49805,2016,Ford,Transit,1FTYE1YM0GKA11788,89049Y1,CA,,2/15/16,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Vans,49806,2016,Ford,Transit,1FTYE1YM6GKA17577,89050Y1,CA,,3/1/16,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Vans,49807,2017,Mercedes,Sprinter,WD3PE8CD4HP531762,54337k2,CA,,2/1/18,Light Duty,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,57367,2007,Great Dane,"S/A, Van, 31'",1GRAA61157B710544,4MV8453,ID,,1/1/07,Trailer,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,49600,2000,TRLMO,UTILITY,1PT01JAH7Y9005579,4KP9619,CA,,1/1/00,Trailer,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,49601,2000,GRATD,UTILITY,1PNV532B1YG314001,4KP9618,CA,,1/1/00,Trailer,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,57626,2009,Utility,53' Foot,1UYVS25319P647513,TE688,ID,,1/1/09,Trailer,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,57629,2009,Utility,53' Foot,1UYVS25379P647516,TE691,ID,,1/1/09,Trailer,,,
+RC Willey,Rocklin Distribution Center - RDC,RDC Trailers,57631,2009,Utility,53' Foot,1UYVS25309P647518,TR5115,ID,,1/1/09,Trailer,,,
+RC Willey,Boise Delivery,Boise Tractors,71115,2007,International,4300,1HSMMAAN68H562754,XG773,ID,,7/15/07,Tractor,,,295/75R22.5
+RC Willey,Boise Delivery,Boise Tractors,71120,2017,International,4300,1HSMMMMN6HH474655,Z050500,UT,,8/1/16,Tractor,,,295/75R22.5
+RC Willey,Boise Delivery,Boise Tractors,71121,2019,Freightliner,M2106,3AKBCXD2XKDKL6517,Z063687,UT,,7/1/18,Tractor,,,295/75R22.5
+RC Willey,Boise Delivery,Boise Straight Trucks,59232,2021,Freightliner,M2106,3ALACWFB8MDMT2747,A043939,UT,,3/1/21,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,59233,2021,Freightliner,M2106,3ALACWFBXMDMT2748,A043938,UT,,3/1/21,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71202,2016,Freightliner,M2106,3ALACWDT1GDHC2102,A023000,UT,,8/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71203,2016,Freightliner,M2106,3ALACWDT3GDHC2104,A031468,UT,,8/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71204,2017,Kenworth,K270,2NKHHM6X0HM158424,Z050848,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71205,2017,Kenworth,K270,2NKHHM6X2HM158425,Z050849,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71206,2017,Kenworth,K270,2NKHHM6X5HM158421,Z050850,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71207,2017,Kenworth,K270,2NKHHM6X4HM158426,Z050787,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71208,2017,Kenworth,K270,2NKHHM6X9HM158423,Z050788,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71209,2017,Kenworth,K270,2NKHHM6X8HM158428,Z050789,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71210,2021,International,MV607,3HAEWMML7ML308643,,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71211,2021,International,MV607,3HAEWMML4ML597352,Z077048,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Straight Trucks,71212,2022,Freightliner,M2106,1FVACWFB1NHNM2521,,UT,,7/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Boise Delivery,Boise Light Duty Trucks,71223,2019,Ford,F350,1FDRF3H60KEG59388,,,,6/1/20,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71801,2013,Freightliner,Sprinter,WDYPE8CC8D5733883,KT7784,ID,,12/15/13,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71806,2007,Ford,E150,1FTNE14W67DA61321,1ASR626,ID,,6/15/07,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71807,2012,Ford,E150,1FTNE2EL3CDB37341,1A0716X,ID,,10/1/12,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71808,2013,Ford,E150,1FTNE1EW0DDA61082,1A5817G,ID,,5/1/13,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71810,2016,Freightliner,Sprinter,WDYPE8DD7GP176321,1A6335S,ID,,3/1/16,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71811,2016,Ford,Transit,1FTYR1YM1GKB50476,KX 3336,ID,,3/15/17,Light Duty,,,
+RC Willey,Boise Delivery,Boise Vans,71812,2019,Freightliner,Sprinter,W2W40BHY1KT019303,,,,12/1/21,Light Duty,,,
+RC Willey,Boise Delivery,Boise Trailers,57344,2005,DNDA,DA30,1D9ST301751149126,TE628,ID,,1/1/05,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,57370,2007,Great Dane,"S/A, Van, 31'",1GRAA61107B710547,TE652,ID,,1/1/07,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,71400,2019,Kentucky,DA30,1KKVC3016KL243715,TM2803,ID,,8/15/19,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,71402,2019,Kentucky,DA30,1KKVC301XKL243717,TM2806,ID,,8/15/19,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,71403,2019,Kentucky,DA30,1KKVC3011KL243718,TM2804,ID,,8/15/19,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,66001,2006,Interstate,utility,4RACS10146K015164,23841R,UT,,6/1/06,Trailer,,,
+RC Willey,Boise Delivery,Boise Trailers,66002,2006,Interstate,utility,4RACS10126KD15549,LM751,ID,,6/1/06,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,71118,2017,International,4300,1HSMMMMN2HH474653,Z050488,UT,,8/15/16,Tractor,,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,71119,2017,International,4300,1HSMMMMN4HH474654,Z050714,UT,,8/15/16,Tractor,,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59143,2019,Freightliner,M2106,3AKBCXD23KDKL6519,Z064671,UT,,8/1/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59144,2020,Freightliner,M2106,3AKBCXD2XLDLN4620,Z075778,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59145,2020,Freightliner,M2106,3AKBCXD21LDLN4618,Z067165,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59146,2020,Freightliner,M2106,3AKBCXD27LDLN4624,Z069974,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59147,2020,Freightliner,M2106,3AKBCXD23LDLN4619,Z067167,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59148,2020,Freightliner,M2106,3AKBCXD2XLDLN4617,Z067166,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Deliver Tractors,59149,2020,Freightliner,M2106,3AKBCXD28LDLN4616,Z067169,UT,,10/1/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Transfer Trucks,59504,2018,Freightliner,CA113,3AKJGBDV7KSKH2332,Z064670,UT,,8/15/18,Tractor,,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Transfer Trucks,59139,2012,Kenworth,T370,2XKHAN7X4CM318506,Z017189,UT,,8/1/18,Tractor,,,295/75R22.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59212,2016,Kenworth,K270,3BKJHM6X3GF581049,Z062723,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59213,2016,Kenworth,K270,3BKJHM6X3GF581052,Z041261,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59214,2016,Kenworth,K270,3BKJHM6X7GF581054,Z067957,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59215,2016,Kenworth,K270,3BKJHM6X1GF581051,Z042127,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59216,2016,Kenworth,K270,3BKJHM6X2GF581057,A039956,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59217,2016,Kenworth,K270,3BKJHM6X6GF581059,A039347,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59218,2016,Kenworth,K270,3BKJHM6X5GF581053,A031091,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59219,2016,Kenworth,K270,3BKJHM6X9GF581055,A026787,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59223,2016,Kenworth,K270,3BKJHM6X4GF581058,A023602,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59224,2016,Kenworth,K270,3BKJHM6X0GF581056,A017176,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59225,2016,Kenworth,K270,3BKJHM6XXGF581050,A046295,UT,,5/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59226,2017,Kenworth,T270,2NKHHM6X7HM158422,Z051508,UT,,10/15/16,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59227,2017,Kenworth,T270,2NKHHM6X6HM158427,Z051509,UT,,10/15/16,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59228,2017,Kenworth,T270,2NKHHM6XXHM158429,Z051510,UT,,10/15/16,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59230,2021,Freightliner,M2106,3ALACWFB4MDMT2745,Z076980,UT,,3/1/21,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Straight Trucks,59231,2021,Freightliner,M2106,3ALACWFB6MDMT2746,A043937,UT,,3/1/21,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,Henderson Store,72703,2016,Freightliner,M2106,3ALACWDT3GDHC2103,A043859,UT,,8/15/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,Summerlin Store,74721,2016,Freightliner,M2106,3ALA3WDT0GDHC2107,A017995,UT,,8/15/15,Straight Truck,,,245/70R19.5
+RC Willey,Nevada Distribution Center - NDC,NDC Light Duty Trucks,59229,2017,Ford,F350,1FDRF3G69HEC09037,634C76,NV,,4/1/17,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59805,2015,Freightliner,Sprinter,DEYPE8DCEFP125559,639C76,NV,,8/1/15,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59806,2014,Freightliner,Sprinter,WDYPE8DC5E5889072,638C76,NV,,7/1/15,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59807,2016,Ford,Transit,1FTYE1YM9GKA36740,640C76,NV,,2/1/16,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59808,2015,Ford,Transit,1FTNE2CM2FKA09264,635C76,NV,,4/1/16,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59810,2016,Ford,Transit,1FTYE1YMXGKB17794,637C76,NV,,11/1/16,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59811,2016,Ford,Transit,1FTYR1YMXGKB50475,641C76,NV,,5/1/17,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59812,2016,Ford,Transit,1FTYE1YM5GKA07140,636C76,NV,,6/1/17,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Vans,59813,2019,Freightliner,Sprinter,WDRPF1ED6KT011052,102K84,NV,,11/1/19,Light Duty,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59324,2003,DNDA,DA30,1D9ST30153S149103,TE722,ID,,1/1/03,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59325,2002,DNDA,DA30,1D9ST30122S149086,TE1074,ID,,1/1/02,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59326,2003,DNDA,DA30,1D9ST30123S149106,TE724,ID,,1/1/03,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59335,2012,Kentucky,DA30,1KKVC3019CL232824,TE8038,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59337,2012,Kentucky,DA30,1KKVC3012CL232826,TE8040,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59338,2012,Kentucky,DA30,1KKVC3014CL232827,TE8041,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59339,2012,Kentucky,DA30,1KKVC3016CL232828,TE8042,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59340,2012,Kentucky,DA30,1KKVC3018CL232829,TE8043,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59341,2012,Kentucky,DA30,1KKVC3014CL232830,TE8044,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59342,2012,Kentucky,DA30,1KKVC3016CL232831,TE8045,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,77305,2012,Kentucky,DA30,1KKVC301XCL232816,TE8030,ID,,8/1/12,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,59421,2003,DNDA,DA30,1D9ST30133S149115,TE726,ID,,1/1/03,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Trailers,71400,2019,Kentucky,DA30,1KKVC3016KL243715,TM2803,ID,,8/1/19,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,59600,1998,Great Dane,7311TPS,1GRAA0624XS001733,10944 P/T,NV,,1/1/98,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57617,2008,Utility,4000 DX,1UYVS25309P647504,TE679,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57620,2008,Utility,4000 DX,1UYVS25369P647507,TE682,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57621,2009,Utility,4000 DX,1UYVS25389P647508,TE683,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57624,2008,Utility,4000 DX,1UYVS25389P647511,TE686,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57627,2008,Utility,4000 DX,1UYVS25339P647514,TE689,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57630,2008,Utility,4000 DX,1UYVS25399P647517,TE692,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57633,2008,Utility,4000 DX,1UYVS25399P647520,TE699,ID,,1/1/08,Trailer,,,
+RC Willey,Nevada Distribution Center - NDC,NDC Storage Trailers,57634,2008,Utility,4000 DX,1UYVS25309P647521,TE702,ID,,1/1/08,Trailer,,,
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57010,2019,Freightliner,M2106,3AKBCXD21KDKL6518,Z064669,UT,$75925,9/1/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57011,2019,Freightliner,M2106,3AKBCXD2XKDKL6520,Z063684,UT,$75925,9/1/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57012,2019,Freightliner,M2106,3AKBCXD21KDKL6521,Z063683,UT,$75925,9/1/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57014,2019,Freightliner,M2106,3AKBCXD25KDKL6523,Z063685,UT,$75925,9/1/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57015,2020,Freightliner,M2106,3AKBCXD23LDLN4622,Z069976,UT,$81481,11/15/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57016,2020,Freightliner,M2106,3AKBCXD25LDLN4623,Z069975,UT,$81481,11/15/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57017,2020,Freightliner,M2106,3AKBCXD21LDLN4621,Z072445,UT,$81481,11/15/19,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57018,2021,Freightliner,M2106,3AKBCXD23MDMT2740,Z076101,UT,$77619,11/23/20,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57019,2021,Freightliner,M2106,3AKBCXD27MDMT2739,Z075843,UT,$77619,11/23/20,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57179,2017,Freightliner,M2106,3AKBCXCYXHDJB1415,A014457,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57180,2017,Freightliner,M2106,3AKBCXCY1HDJB1416,A020718,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57181,2017,Freightliner,M2106,3AKBCXCY3HDJB1417,A020719,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57182,2017,Freightliner,M2106,3AKBCXCY5HDJB1418,A020720,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57183,2017,Freightliner,M2106,3AKBCXCY7HDJB1419,A014456,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57184,2017,Freightliner,M2106,3AKBCXCY3HDJB1420,A014455,UT,,7/11/16,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57185,2018,Freightliner,M2106,3AKBCXFEXJDJR6882,A019686,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57186,2018,Freightliner,M2106,3AKBCXFE8JDJR6878,Z049390,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57187,2018,Freightliner,M2106,3AKBCXFE8JDJR6881,Z049389,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57188,2018,Freightliner,M2106,3AKBCXFE1JDJR6883,Z049391,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57189,2018,Freightliner,M2106,3AKBCXFE6JDJR6880,A019687,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57190,2018,Freightliner,M2106,3AKBCXFEXJDJR6879,Z049392,UT,,8/1/17,Tractor,Cummins,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57191,2019,Freightliner,M2106,3AKBCXD20KDKL6509,Z066003,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57193,2019,Freightliner,M2106,3AKBCXD29KDKL6511,Z066004,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57194,2019,Freightliner,M2106,3AKBCXD20KDKL6512,Z066006,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57195,2019,Freightliner,M2106,3AKBCXD22KDKL6513,Z065537,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57196,2019,Freightliner,M2106,3AKBCXD24KDKL6514,Z065538,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57197,2019,Freightliner,M2106,3AKBCXD26KDKL6515,Z065539,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Delivery Tractors,57198,2019,Freightliner,M2106,3AKBCXD28KDKL6516,Z066005,UT,$75925,9/15/18,Tractor,Detroit,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Transfer Trucks,57511,2015,Kenworth,T680,1XKYAP8XXFJ452975,Z037946,UT,$106550,10/15/14,Tractor,,,295 75 22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Transfer Trucks,57512,2016,Freightliner,CA113,3AKJGBDVXGSGY5022,A018628,UT,$98429,11/1/15,Tractor,,,11R 22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Transfer Trucks,57513,2019,Freightliner,CA113,3AKJGBDV9KSKH2333,Z063686,UT,,8/15/18,Tractor,,,11R 22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Transfer Trucks,57514,2020,Freightliner,CA113,3AKJGBDV2LDLS3262,Z070679,UT,$96389,8/1/19,Tractor,,,11R 22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,57503,2020,Ottawa T2,Commando 30,11VJ813A0LA000902,,,,4/15/21,Tractor,,,11R 22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,59138,2012,Kenworth,T370,2XKHAN7X2CM318505,Z017188,UT,,8/1/11,Tractor,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,71110,2007,International,4300,1HSMMAAN98H562750,XG3547,ID,,1/1/07,Tractor,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,71111,2007,International,4300,1HSMMAAN08H562751,XF1578,ID,,1/1/07,Tractor,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,71113,2007,International,4300,1HSMMAAN28H562752,D846TT,UT,,1/1/07,Tractor,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Yard Dogs,71116,2007,International,4300,1HSMMAAN88H562741,XF1580,ID,,1/1/07,Tractor,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57210,2015,Freightliner,M2106,1FVACWDTXFHGN1575,Z075779,UT, ,11/15/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57211,2016,Freightliner,M2106,3ALACWDT9GDHC2106,A031250,UT,,9/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57212,2016,Freightliner,M2106,3ALACWDT7GDHC2105,A044243,UT,,9/1/15,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57213,2017,Freightliner,M2106,3ALACWDT4HDJB1396,W785DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57214,2017,Freightliner,M2106,3ALACWDT6HDJB1397,U213MG,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57215,2017,Freightliner,M2106,3ALACWDT8HDJB1398,W845GW,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57216,2017,Freightliner,M2106,3ALACWDTXHDJB1399,W787DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57217,2017,Freightliner,M2106,3ALACWDT2HDJB1400,W844GW,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57218,2017,Freightliner,M2106,3ALACWDT4HDJB1401,W842GW,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57219,2017,Freightliner,M2106,3ALACWDT6HDJB1402,W795DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57220,2017,Freightliner,M2106,3ALACWDT8HDJB1403,W794DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57221,2017,Freightliner,M2106,3ALACWDTSHDJB1404,W788DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57222,2017,Freightliner,M2106,3ALACWDT1HDJB1405,W843GW,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57223,2017,Freightliner,M2106,3ALACWDT3HDJB1406,W789DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57224,2017,Freightliner,M2106,3ALACWDT5HDJB1407,W841GW,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57225,2017,Freightliner,M2106,3ALACWDT7HDJB1408,W793DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57226,2017,Freightliner,M2106,3ALACWDT9HDJB1409,W792DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57227,2017,Freightliner,M2106,3ALACWDT5HDJB1410,U280MG,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57228,2017,Freightliner,M2106,3ALACWDT7HDJB1411,W790DJ,UT,$63197,8/1/16,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,57240,2022,Freightliner,M2106,1FVACWFB3NHNM2519,,UT,,1/1/22,Straight Truck,,,245/70R19.6
+RC Willey,Intermountain Distribution Center - IDC,Layton Store Units,61220,2015,Freightliner,M2106,1FVACWDT8FHGN1574,Z080181,UT,,11/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,Orem Store Units,65215,2015,Freightliner,M2106,1FVACWDT1FHGN1576,Z058141,UT,,11/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,South Salt Lake Store Units,67101,2015,Freightliner,M2106,1FVACWDT0FHGN1570,A041495,UT,,11/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,IDC Straight Trucks,68200,2020,Freightliner,M2106,3ALACWFB8LDLN4615,V301TZ,UT,,2/15/20,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,Riverdale Store Units,68228,2015,Freightliner,M2106,1FVACWDT6FHGN1573,Z038420,UT,,11/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,Draper Store Units,80101,2015,Freightliner,M2106,1FVACWDT4FHGN1572,Z038606,UT,,11/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,Layton Store Units,49219,2014,Freightliner,M2106,3ALACWDT5EDFW5574,F815YF,UT,,2/1/14,Straight Truck,,,245/70R19.5
+RC Willey,Intermountain Distribution Center - IDC,Orem Store Units,57209,2015,Dodge,3500,3C7WRTBJ0FG500447,X506PF,UT,,11/1/14,Light Duty,,,245/70R17
+RC Willey,Intermountain Distribution Center - IDC,IDC Light Duty Trucks,57229,2016,Ford,F350,1FDRF3H67GEC58864,V441SC,UT,,11/1/16,Light Duty,,,245/75R17
+RC Willey,Intermountain Distribution Center - IDC,IDC Light Duty Trucks,57230,2016,Ford,F350,1FDRF3H65GEC58863,U517GX,UT,,11/1/16,Light Duty,,,245/75R17
+RC Willey,Intermountain Distribution Center - IDC,IDC Light Duty Trucks,57231,2019,Ford,F350,1FDRF3H64KEE58819,F526PU,UT,,4/15/19,Light Duty,,,245/75R17
+RC Willey,Intermountain Distribution Center - IDC,South Salt Lake Store Units,66754,2014,Dodge,Ram 2500,3C6LR4AT6EG217517,D926XW,UT,,5/1/14,Light Duty,,,245/70R17
+RC Willey,Intermountain Distribution Center - IDC,South Salt Lake Store Units,64213,2012,GMC,SAVANA,1GD373BG2C1128304,C627RW,UT,,10/1/12,Light Duty,,,215/85R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66852,2007,Ford,E150,1FTNE14W57DA59320,655PFF,UT,,4/1/07,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66859,2013,Freightliner,Sprinter,WDYPE8CC1D5736401,Y261UM,UT,,12/1/13,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66860,2013,Freightliner,Sprinter,WDYPE8CC3D5736402,Y555VY,UT,,4/15/13,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66861,2013,Freightliner,Sprinter,WDYPE8CC5D5736403,Y554VY,UT,,5/1/13,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66862,2015,Freightliner,Sprinter,WDYPE8CC0F5952680,X659NV,UT,,7/1/14,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,66863,2016,Freightliner,Sprinter,WDYPE8DD3GP334914,W621SY,UT,,2/1/17,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69812,2005,GMC,Savana,1GTFH15T251246397,053VSJ,UT,,1/1/05,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69817,2006,Ford,E150,1FTRE14W36DB31504,887UHY,UT,,1/1/06,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69824,2012,GMC,Savanna,1GTW7FBA0C1173479,C279PN,UT,,10/1/12,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,South Salt Lake Store Units,69826,2014,Ford,E150,1FTNE1EW8EDA66970,D103JW,UT,,4/1/14,Light Duty,,,245/75R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69827,2015,Ford,Transit,1FTNE1ZM4FKB12879,X014XT,UT,,8/1/15,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69828,2015,Ford,Transit,1FTNE1ZM2FKB12878,X013XT,UT,,7/1/15,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69829,2015,Ford,Transit,1FTNE1ZM0FKB12880,X015XT,UT,,12/1/15,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69830,2015,Ford,Transit,1FTYE1ZM8FKB11716,W644AA,UT,,12/1/15,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69831,2015,Ford,Transit,1FTNE1ZGOFKB25798,W357CS,UT,,12/1/15,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69833,2017,Ford,Transit,1FTYE1YM8HKA34091,F213DC,UT,,2/1/18,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69834,2018,Ford,Transit,1FTYE1YM1JKB50710,V635LD,UT,,12/1/18,Light Duty,,,235/65R16
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69836,2019,Ford,Transit,1FTYE1YM6KKB83087,F091YL,UT,,6/1/20,Light Duty,,,235/65R17
+RC Willey,Intermountain Distribution Center - IDC,IDC Vans,69837,2019,Freightliner,Sprinter,WDRPE7ED4KT013856,,,,1/1/22,Light Duty,,,
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,49302,2007,Great Dane,"S/A, Van, 31'",1GRAA611X7B710541,4KE1625,CA,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57351,2007,Great Dane,"S/A, Van, 31'",1GRAA61147B710535,TH3292,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57352,2007,Great Dane,"S/A, Van, 31'",1GRAA61167B710536,TE635,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57354,2007,Great Dane,"S/A, Van, 31'",1GRAA61127B710534,TE637,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57355,2007,Great Dane,"S/A, Van, 31'",1GRAA61187B710537,TE638,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57357,2007,Great Dane,"S/A, Van, 31'",1GRAA61167B710522,TE640,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57358,2007,Great Dane,"S/A, Van, 31'",1GRAA61137B710526,TE641,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57359,2007,Great Dane,"S/A, Van, 31'",1GRAA61177B710528,TE642,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57360,2007,Great Dane,"S/A, Van, 31'",1GRAA61197B710529,TE643,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57361,2007,Great Dane,"S/A, Van, 31'",1GRAA61157B710530,TE644,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57363,2007,Great Dane,"S/A, Van, 31'",1GRAA61107B710533,TE646,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57365,2007,Great Dane,"S/A, Van, 31'",1GRAA61117B710542,TE647,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57366,2007,Great Dane,"S/A, Van, 31'",1GRAA61137B710543,TE648,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57368,2007,Great Dane,"S/A, Van, 31'",1GRAA61177B710545,TE650,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57371,2007,Great Dane,"S/A, Van, 31'",1GRAA61127B710548,TE653,ID,,6/15/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57379,2008,Kentucky,DA30,1KKVC301X8L226697,TE654,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57380,2008,Kentucky,DA30,1KKVC30118L226698,TE655,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57381,2008,Kentucky,DA30,1KKVC30138L226699,TE656,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57382,2008,Kentucky,DA30,1KKVC30168L226700,TE657,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57383,2008,Kentucky,DA30,1KKVC30188L226701,TE658,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57384,2008,Kentucky,DA30,1KKVC301X8L226702,TE660,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57385,2008,Kentucky,DA30,1KKVC30118L226703,TE661,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57386,2008,Kentucky,DA30,1KKVC30138L226704,TE662,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57387,2008,Kentucky,DA30,1KKVC30158L226705,TE663,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57388,2008,Kentucky,DA30,1KKVC30178L226706,TE664,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57389,2008,Kentucky,DA30,1KKVC30198L226707,TE665,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57390,2008,Kentucky,DA30,1KKVC30108L226708,TE666,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57391,2008,Kentucky,DA30,1KKVC30128L226709,TE667,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57392,2008,Kentucky,DA30,1KKVC30198L226710,TE668,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57393,2008,Kentucky,DA30,1KKVC30108L226711,TN4813,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57394,2008,Kentucky,DA30,1KKVC30128L226712,TE670,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57395,2008,Kentucky,DA30,1KKVC30148L226713,TE671,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57396,2008,Kentucky,DA30,1KKVC30168L226714,TE672,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57397,2008,Kentucky,DA30,1KKVC30168L226715,TE673,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57398,2008,Kentucky,DA30,1KKVC301X8L226716,TN2765,ID,,7/1/08,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57400,2019,Kentucky,FCVDLT,1KKVC3016KL243701,TM2281,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57401,2019,Kentucky,FCVDLT,1KKVC3018KL243702,TK5347,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57402,2019,Kentucky,FCVDLT,1KKVC301XKL243703,TK5345,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57403,2019,Kentucky,FCVDLT,1KKVC3011KL243704,TK5343,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57404,2019,Kentucky,FCVDLT,1KKVC3013KL243705,TK5352,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57405,2019,Kentucky,FCVDLT,1KKVC3015KL243706,TK5341,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57406,2019,Kentucky,FCVDLT,1KKVC3017KL243707,TK5350,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57407,2019,Kentucky,FCVDLT,1KKVC3019KL243708,TK5349,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57408,2019,Kentucky,FCVDLT,1KKVC3010KL243709,TK5344,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57409,2019,Kentucky,FCVDLT,1KKVC3017KL243710,TK5346,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57410,2019,Kentucky,FCVDLT,1KKVC3019KL243711,TK5348,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57411,2019,Kentucky,FCVDLT,1KKVC3010KL243712,TK5340,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57412,2019,Kentucky,FCVDLT,1KKVC3012KL243713,TK5342,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57413,2019,Kentucky,FCVDLT,1KKVC3014KL243714,TK5351,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,57414,2019,Kentucky,FCVDLT,1KKVC3018KL243716,TM2814,ID,,6/15/19,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59328,2012,Kentucky,DA30,1KKVC3011CL232817,TE8031,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59329,2012,Kentucky,DA30,1KKVC3013CL232818,TE8032,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59330,2012,Kentucky,DA30,1KKVC3015CL232819,TE8033,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59331,2012,Kentucky,DA30,1KKVC3011CL232820,TE8034,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59332,2012,Kentucky,DA30,1KKVC3013CL232821,TE8035,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59333,2012,Kentucky,DA30,1KKVC3015CL232822,TE8036,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59334,2012,Kentucky,DA30,1KKVC3017CL232823,TE8037,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59336,2012,Kentucky,DA30,1KKVC3010CL232825,TE8034,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59343,2012,Kentucky,DA30,1KKVC3018CL232832,TE8046,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,59344,2012,Kentucky,DA30,1KKVC301XCL232833,TE8047,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,77303,2012,Kentucky,DA30,1KKVC3016CL232814,TE7064,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30’ Delivery Trailers,77304,2012,Kentucky,DA30,1KKVC3018CL232815,TE8029,ID,,7/25/12,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57613,2004,Great Dane,Van 53' Air R,1GRAA06274T505327,TE675,ID,,6/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57614,2009,Utility,53' Foot,1UYVS25359P647501,TE676,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57615,2009,Utility,53' Foot,1UYVS25379P647502,TE677,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57616,2009,Utility,53' Foot,1UYVS25399P647503,TE678,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57618,2009,Utility,53' Foot,1UYVS25329P647505,TE680,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57619,2009,Utility,53' Foot,1UYVS25349P647506,TE681,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57622,2009,Utility,53' Foot,1UYVS253X9P647509,TE684,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57623,2009,Utility,53' Foot,1UYVS25369P547510,TE685,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57625,2009,Utility,53' Foot,1UYVS253X9P647512,TE687,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57628,2009,Utility,53' Foot,1UYVS25359P647515,TE690,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57632,2009,Utility,53' Foot,1UYVS25329P647519,TE694,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57635,2009,Utility,53' Foot,1UYVS25329P647522,TP9886,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57636,2009,Utility,53' Foot,1UYVS25349P647523,TE704,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57637,2009,Utility,53' Foot,1UYVS25369P647524,TE705,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57638,2009,Utility,53' Foot,1UYVS25389P647525,TE701,ID,,10/1/08,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57639,2004,Great Dane,53' Foot,1GRAA06204T505329,TE4460,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57640,2004,Great Dane,53' Foot,1GRAA06274T505330,TE4461,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57641,2004,Great Dane,53' Foot,1GRAA06294T505331,TE4462,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57642,2004,Great Dane,53' Foot,1GRAA06264T505335,TE4463,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57643,2004,Great Dane,53' Foot,1GRAA06234T505342,TE4464,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57644,2004,Great Dane,53' Foot,1GRAA06204T505346,TE4465,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57645,2004,Great Dane,53' Foot,1GRAA06224T505347,TE4466,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57646,2004,Great Dane,53' Foot,1GRAA06244T505348,TE4467,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57647,2004,Great Dane,53' Foot,1GRAA06214T505355,TE4468,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57648,2004,Great Dane,53' Foot,1GRAA06274T505358,TE4469,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57649,2004,Great Dane,53' Foot,1GRAA062X4T505371,TE4470,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57650,2004,Great Dane,53' Foot,1GRAA06214T505372,TE4471,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57651,2004,Great Dane,53' Foot,1GRAA06234T505373,TE4472,ID,,1/1/04,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57652,2000,Great Dane,TL,1GRAA0625YB059609,TH7831,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57653,1997,WANC,TL,1JJV532S5VL413715,TH7832,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57654,1997,WANC,TL,1JJV532S1VL413713,TH7833,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57655,1997,WANC,TL,1JJV532S5VL413679,TH7834,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57656,1997,WANC,TL,1JJV532S2VL413686,TH7835,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57657,1998,WANC,TL,1JJV532WXWL451624,TH7836,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57658,1998,WANC,TL,1JJV532WXWL451610,TH7837,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57659,1998,WANC,TL,1JJV532W3WL451609,TH7838,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57660,1998,WANC,TL,1JJV532WXWL451588,TH7839,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57661,1998,WANC,TL,1JJV532W2WL451598,TH7840,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57662,1998,WANC,TL,1JJV532W7WL450169,TH7841,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57663,1998,WANC,TL,1JJV532W6WL450163,TH7842,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57664,1998,WANC,TL,1JJV532W0WL450160,TH7843,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57665,1998,WANC,TL,1JJV532W1WL450152,TH7844,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57666,1998,WANC,TL,1JJV532W6WL450146,TR6797,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57667,1998,WANC,TL,1JJV532W0WL450143,TH7846,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57668,1998,WANC,TL,1JJ5V532W0WL450126,TH7847,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 53’ Trailers,57669,1998,WANC,TL,1JJV532W7WL450124,TH7848,ID,,3/1/16,Trailer,,,295/75R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57488,1989,DNDA,DA30,1D9ST3014RS149008,00958E,UT,,1/1/89,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,65402,1995,DNDA,DA30,1D9ST3018SD149050,,,,1/1/95,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,61407,1995,DNDA,DA30,1D9ST301XSD149048,002464A,UT,,1/1/95,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71302,1999,Summit,30' Van,1D9ST301XSD149051,ZF7573,UT,,1/1/99,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57312,2002,DNDA,DA3019644,1D9ST30102S149099,09678R,UT,,1/1/02,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57329,2002,DNDA,DA3019640,1D9ST30132S149095,TE621,ID,,1/1/02,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57341,2002,DNDA,DA3019638,1D9ST301X2S149093,TE625,ID,,1/1/02,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57342,2002,DNDA,DA3019637,1D9ST30182S149092,TE626,ID,,1/1/02,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,59309,2003,DNDA,DA30,1D9ST30173S149117,TE707,ID,,1/1/03,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,59312,2003,DNDA,DA30,1D9ST30143S149110,TE710,ID,,1/1/03,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,77301,2003,DNDA,DA30,1D9ST30193S149104,10946PT,NV,,1/1/03,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57343,2005,DNDA,DA30,1D9ST301551149125,TE627,ID,,1/1/05,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57345,2005,DNDA,DA30,1D9ST301951149127,TE629,ID,,1/1/05,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57348,2005,DNDA,DA30,1D9ST301951149130,TE632,ID,,1/1/05,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57349,2005,DNDA,DA30,1D9ST301051149131,TE633,ID,,1/1/05,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,77302,2005,DNDA,DA30,1D9ST301351149124,10947PT,NV,,1/1/05,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,49301,2006,DNDA,DA30,1D9ST301661149135,091936Z,UT,,1/1/06,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57324,2006,DNDA,DA30,1D9ST301361149139,TE620,ID,,1/1/06,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57337,2006,DNDA,DA30,1D9ST301161149138,TE623,ID,,1/1/06,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57377,2006,DNDA,DA30,1D9ST301X61149137,091937Z,UT,,1/1/06,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,57378,2006,DNDA,DA30,1D9ST301861149136,091935Z,UT,,1/1/06,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,49302,2007,Great Dane,S/A VAN 31',1GRAA611X7B710541,4KE1625,CA,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71310,2007,Great Dane,S/A VAN 31',1GRAA611X7B710524,Z518406,UT,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71311,2007,Great Dane,S/A VAN 31',1GRAA61157B710527,Z518405,UT,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71313,2007,Great Dane,S/A VAN 31',1GRAA61147B710549,Z518408,UT,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71314,2007,Great Dane,S/A VAN 31',1GRAA61107B710550,TJ6952,ID,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71316,2007,Great Dane,S/A VAN 31',1GRAA61197B710532,Z518407,UT,,1/1/07,Trailer,,,255/70R22.5
+RC Willey,Intermountain Distribution Center - IDC,IDC 30' As Is Trailers,71317,2007,Great Dane,S/A VAN 31',1GRAA61117B710539,TJ3675,ID,,1/1/07,Trailer,,,255/70R22.5

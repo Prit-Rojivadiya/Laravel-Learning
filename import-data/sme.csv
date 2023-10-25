@@ -1,0 +1,30 @@
+NTC
+Client,Branch,Fleet,Vehicle Unit Number,Year,Make,Model,Vin#,License Plate #,License State,Purchase Price,In Service Date,Vehicle Type,Engine Manufacturer,Engine Serial #,Tire Size
+SME Logistics,West Jordan,West Jordan Tractors,4,2020,Freightliner,Cascadia,3AKNHHFG4LSLT0550,Z068717,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,9,2020,Freightliner,Cascadia,3AKNHHFG4LSLT3481,Z068793,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,11,2020,Freightliner,Cascadia,3AKNHHFG8LSLT3483,Z068789,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,5,2020,Freightliner,Cascadia,3AKNHHFG6LSLT0551,Z068718,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,6,2020,Freightliner,Cascadia,3AKNHHFG8LSLT0552,Z068790,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,7,2020,Freightliner,Cascadia,3AKNHHFGXLSLT0553,Z068791,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,8,2020,Freightliner,Cascadia,3AKNHHFG2LSLT3480,Z068792,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,10,2020,Freightliner,Cascadia,3AKNHHFG6LSLT3482,Z068788,UT,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,12,2021,Freightliner,Cascadia,3AKJHHDR5MSLL6913,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,13,2021,Freightliner,Cascadia,3AKJHHDR7MSLL6914,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,14,2021,Freightliner,Cascadia,3AKJHHDR9MSLL6915,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,15,2021,Freightliner,Cascadia,3AKJHHDR0MSLL6916,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,16,2021,Freightliner,Cascadia,3AKJHHDR9MSMT2334,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,17,2021,Freightliner,Cascadia,3AKJHHDR0MSMT2335,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,18,2021,Freightliner,Cascadia,3AKJHHDR2MSMT2336,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Tractors,19,2021,Freightliner,Cascadia,3AKJHHDR4MSMT2337,,,,,Tractor,,,11R22.5
+SME Logistics,West Jordan,West Jordan Trailers,T54,2019,Reitnouer,53’ Flatbed,1RNF53A47KR046547,TL4183,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T55,2019,Reitnouer,53’ Flatbed,1RNF53A49KR046548,TL4184,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T56,2019,Reitnouer,53’ Flatbed,1RNF53A40KR046549,TL4185,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T57,2019,Reitnouer,53’ Flatbed,1RNF53A43LR053013,TL9977,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T58,2019,Reitnouer,53’ Flatbed,1RNF53A45LR053014,TL9978,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T59,2019,Reitnouer,53’ Flatbed,1RNF53A47LR053015,TL9979,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T63,2019,Reitnouer,53’ Flatbed,1RNF53A44LR053019,TL9983,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T64,2019,Reitnouer,53’ Flatbed,1RNF53A40LR053020,TL9984,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T65,2019,Reitnouer,53’ Flatbed,1RNF53A42LR053021,TL9985,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T61,2019,Reitnouer,53’ Flatbed,1RNF53A40LR053017,TL9981,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T62,2019,Reitnouer,53’ Flatbed,1RNF53A42LR053018,TL9982,UT,,,Trailer,,,295/75r22.5
+SME Logistics,West Jordan,West Jordan Trailers,T60,2019,Reitnouer,53’ Flatbed,1RNF53A49LR053016,TL9980,UT,,,Trailer,,,295/75r22.5
